@@ -1,11 +1,13 @@
 - an vue demo
+   - 编译：`webpack`
+   - 运行：`npm run server`
 
 - 依赖以及版本:
-`
-  "dependencies": {
+```
+"dependencies": {
     "vue": "^2.6.8"
-  },
-  "devDependencies": {
+},
+"devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
@@ -21,8 +23,9 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1"
-  }
-`
+}
+
+```
 - 源教程参考地址:
    - [segmentfault](https://segmentfault.com/a/1190000008602934)
    - [csdn](https://blog.csdn.net/weixin_40875873/article/details/78409316)
