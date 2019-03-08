@@ -3,7 +3,7 @@
    - 运行：`npm run server`
 
 - 预览
-   ![效果图]('https://img.hqbuycdn.com/res/img/global/logo_hqbuy_170.png')
+   ![效果图](https://raw.githubusercontent.com/lidysun/start_vuedeom/master/demo.png)
 
 - 依赖以及版本:
 ```
