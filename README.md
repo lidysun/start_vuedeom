@@ -3,7 +3,7 @@
    - 运行：`npm run server`
 
 - 预览
-   ![效果图]('https://github.com/lidysun/start_vuedeom/blob/first_vuedemo.png')
+   ![效果图]('https://github.com/lidysun/start_vuedeom/raw/demo.png')
 
 - 依赖以及版本:
 ```
