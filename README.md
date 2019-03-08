@@ -23,8 +23,8 @@
     "webpack-dev-server": "^3.2.1"
   }
 `
-- 教程参考地址:
--- l. [segmentfault](https://segmentfault.com/a/1190000008602934)
--- 2. [csdn](https://blog.csdn.net/weixin_40875873/article/details/78409316)
+- 源教程参考地址:
+   - [segmentfault](https://segmentfault.com/a/1190000008602934)
+   - [csdn](https://blog.csdn.net/weixin_40875873/article/details/78409316)
 
 
