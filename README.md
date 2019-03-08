@@ -2,10 +2,8 @@
    - 编译：`webpack`
    - 运行：`npm run server`
 
-- 预览
-   <p style="vertical-align:middle;">
-            ![效果图](https://raw.githubusercontent.com/lidysun/start_vuedeom/master/demo.png)
-   </p>
+- 预览:
+   ![效果图](https://raw.githubusercontent.com/lidysun/start_vuedeom/master/demo.png)
 
 - 依赖以及版本:
 ```
