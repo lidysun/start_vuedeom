@@ -2,6 +2,9 @@
    - 编译：`webpack`
    - 运行：`npm run server`
 
+- 预览
+![效果图]('./first_vuedemo.png')
+
 - 依赖以及版本:
 ```
 "dependencies": {
